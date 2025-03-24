@@ -44,15 +44,6 @@ This project bridges human emotions and music by analyzing facial expressions to
 2. Image Processing (resize, grayscale)  
 3. Mood Prediction using trained CNN  
 4. Recommend songs accordingly 🎶  
-5. Display mood + song list to the user  
+5. Display mood + song to the user  
 
----
 
-## 🚀 Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/mood-song-recommender.git
-
-# Upload to Google Colab
-# Run all cells and enjoy personalized music suggestions!
